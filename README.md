@@ -2,7 +2,7 @@
 
 This project is a login system web application developed using HTML, CSS, and JavaScript. It offers a secure and user-friendly interface for users to authenticate themselves and access restricted areas of a website or application. 
 
-![Image](/System-Login/Images/Login.png)
+![Image](/Images/Login.png)
 
 ## Features:
 *User Authentication: Users can securely log in using their credentials (username and password).
