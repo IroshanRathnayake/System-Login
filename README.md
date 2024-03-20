@@ -5,11 +5,11 @@ This project is a login system web application developed using HTML, CSS, and Ja
 ![Image](/Images/Login.png)
 
 ## Features:
-*User Authentication: Users can securely log in using their credentials (username and password).
-*Session Management: The application manages user sessions effectively, ensuring security and privacy.
-*Responsive Design: The interface is designed to adapt seamlessly to different screen sizes and devices, providing a consistent experience.
-*Customizable Styling: The CSS stylesheet allows for easy customization of the login page's appearance to match the branding or theme of the website or application.
-*Error Handling: Robust error handling mechanisms are in place to provide users with clear feedback in case of incorrect login attempts or other issues.
+- User Authentication: Users can securely log in using their credentials (username and password).
+- Session Management: The application manages user sessions effectively, ensuring security and privacy.
+- Responsive Design: The interface is designed to adapt seamlessly to different screen sizes and devices, providing a consistent experience.
+- Customizable Styling: The CSS stylesheet allows for easy customization of the login page's appearance to match the branding or theme of the website or application.
+- Error Handling: Robust error handling mechanisms are in place to provide users with clear feedback in case of incorrect login attempts or other issues.
 
 ## Usage:
 To use this login system web application in your project, simply clone the repository or download the source code files. Then, integrate the HTML, CSS, and JavaScript files into your project directory. Ensure that you link the CSS stylesheet (`styles.css`) and JavaScript file (`script.js`) in your HTML file.
