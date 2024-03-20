@@ -17,11 +17,4 @@ To use this HTML login page in your project, simply download or clone the reposi
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 
-In this `README.md` file:
-
-- I've provided a brief description of the project.
-- Listed some key features of the login page.
-- Mentioned how to use the project in other projects.
-- Included a preview image of the login page.
-- Encouraged contributions and outlined the license information.
 
