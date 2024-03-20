@@ -1,6 +1,6 @@
 # System Login Page
 
-This is a simple HTML login page project aimed at demonstrating the structure and functionality of a basic login interface using HTML and CSS and JavaScript.
+This is a HTML login page project aimed at demonstrating the structure and functionality of a login interface using HTML and CSS and JavaScript.
 
 ## Features
 
@@ -12,6 +12,7 @@ This is a simple HTML login page project aimed at demonstrating the structure an
 ## Usage
 
 To use this HTML login page in your project, simply download or clone the repository and include the necessary files in your project directory. Then, link the CSS stylesheet (`styles.css`) and HTML file (`index.html`) in your project's HTML file.
+
 
 ```html
 <link rel="stylesheet" type="text/css" href="styles.css">
